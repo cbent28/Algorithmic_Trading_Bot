@@ -149,13 +149,14 @@ Coding Conventions and Formatting (10 points)
 ---------------------------------------------
 
 To receive all points, you must
-Place imports at the top of the file, just after any module comments and docstrings, and before module globals and constants. (3 points)
 
-Name functions and variables with lowercase characters, with words separated by underscores. (2 points)
+- Place imports at the top of the file, just after any module comments and docstrings, and before module globals and constants. (3 points)
 
-Follow DRY (Don't Repeat Yourself) principles, creating maintainable and reusable code. (3 points)
+- Name functions and variables with lowercase characters, with words separated by underscores. (2 points)
 
-Use concise logic and creative engineering where possible. (2 points)
+- Follow DRY (Don't Repeat Yourself) principles, creating maintainable and reusable code. (3 points)
+
+- Use concise logic and creative engineering where possible. (2 points)
 
 Deployment and Submission (10 points)
 -----------------------
